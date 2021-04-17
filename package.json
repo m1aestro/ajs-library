@@ -1,0 +1,23 @@
+{
+  "name": "ajs-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m1aestro/ajs-library.git"
+  },
+  "author": "m1aestro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m1aestro/ajs-library/issues"
+  },
+  "homepage": "https://github.com/m1aestro/ajs-library#readme",
+  "dependencies": {
+    "@m1aestro/ajs": "^1.0.0"
+  }
+}
